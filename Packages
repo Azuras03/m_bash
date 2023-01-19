@@ -1,13 +1,13 @@
 Package: mbash
-Version: 0.1.0
+Version: 0.2.0
 Architecture: amd64
 Maintainer: nr03nrusso@gmail.com
 Depends: libc6
 Filename: ./CurrMBash.deb
-Size: 3448
-MD5sum: 9e5b43cec249b9d56042939b493fdb16
-SHA1: f621fba4c0670253f49f0b20927788c12e57d1d3
-SHA256: 3dac2c0a350ea1c910d8e16b1250fb76b8516e64a6742e492fb0fb8ca132b9c7
+Size: 3680
+MD5sum: 438178944b9c1d8f6eec613d37edc273
+SHA1: 14b00a7ae245d1ba685ba58ba5497d752cb3d3cc
+SHA256: 20d24faec18cc91a918f225637c7e9858918ae068ef2e2cfba4ae65520af82d3
 Section: development
 Priority: optional
 Description: A program for a MicroBash hehe
