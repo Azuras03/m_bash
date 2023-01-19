@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: nr03nrusso@gmail.com
 Depends: libc6
 Filename: ./CurrMBash.deb
-Size: 3680
-MD5sum: 438178944b9c1d8f6eec613d37edc273
-SHA1: 14b00a7ae245d1ba685ba58ba5497d752cb3d3cc
-SHA256: 20d24faec18cc91a918f225637c7e9858918ae068ef2e2cfba4ae65520af82d3
+Size: 3602
+MD5sum: 04997b7127e3e25361b2544080259511
+SHA1: 7033b691c6cfc3ef23c6175fe8f4dab1a4fc529c
+SHA256: 086e9790d705a894ade29ba4fcc408888af17cf7620e788bfd2cc0003287e7f8
 Section: development
 Priority: optional
 Description: A program for a MicroBash hehe
