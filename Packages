@@ -2,12 +2,12 @@ Package: mbash
 Version: 0.2.0
 Architecture: amd64
 Maintainer: nr03nrusso@gmail.com
-Depends: libc6
+Depends: glibc
 Filename: ./mBashStable.deb
-Size: 3668
-MD5sum: 322f28185e7736462e7caf0d1ad1e55c
-SHA1: 6f967ef8281d344785fddd524e18d3b9f95da5cb
-SHA256: 927c5bb6989a4326cf4d8d93efcd18c067e6de88293ba5d4e0269e741f3fbd60
+Size: 3632
+MD5sum: 480a3346126441a77068f896ca6b9b7a
+SHA1: 52f50d2afa55df9b485ecc0938758586d9158190
+SHA256: 692e92a9afef36ef14af8e398bd2d06721142610e73fc1f8df47937fe3267468
 Section: development
 Priority: optional
 Description: A program for a MicroBash hehe
