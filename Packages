@@ -2,13 +2,13 @@ Package: mbash
 Version: 0.2.0
 Architecture: amd64
 Maintainer: nr03nrusso@gmail.com
-Depends: glibc
+Depends: libc6
 Filename: ./mBashStable.deb
-Size: 3632
-MD5sum: 480a3346126441a77068f896ca6b9b7a
-SHA1: 52f50d2afa55df9b485ecc0938758586d9158190
-SHA256: 692e92a9afef36ef14af8e398bd2d06721142610e73fc1f8df47937fe3267468
+Size: 3670
+MD5sum: a3fa5194043f68b90b036de8b774f7af
+SHA1: 2204e4871f68abfb4896e4c03c19e6e3aa8b0c17
+SHA256: e3153afe38d2a413262d9a32a48381954cdd926697fc1df727f063ec5d92feb8
 Section: development
 Priority: optional
-Description: A program for a MicroBash hehe
+Description: A program for a MicroBash (made by Nicolas Russo and Emilien Hergott)
 
